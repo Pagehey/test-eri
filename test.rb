@@ -1,1 +1,1 @@
-"coucou"
+puts "coucou"
